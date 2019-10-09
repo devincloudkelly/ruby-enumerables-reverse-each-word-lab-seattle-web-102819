@@ -3,6 +3,5 @@ def reverse_each_word(string)
   final = []
   final = new.collect do |word|
     word.reverse
-    p newest
 end
 end
